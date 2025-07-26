@@ -157,10 +157,10 @@ AI-Journey/
 - Python 3.8+
 - You can run code via:
 
-> Jupyter Notebooks
-> Python scripts (.py)
-> Google Colab
-> VSCode
+# Jupyter Notebooks
+# Python scripts (.py)
+# Google Colab
+# VSCode
 - Libraries:
   ```bash
   pip install numpy pandas matplotlib seaborn scikit-learn
